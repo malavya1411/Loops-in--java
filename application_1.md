@@ -2,7 +2,7 @@
  Java program that use for loop to display a countdown along with adjustable speed of countdown\
 ```java
 import java.util.*;
-public class loop {
+public class application_1 {
     public static void main(String[]args) throws InterruptedException 
     {
         Scanner sc =new Scanner(System.in); 
